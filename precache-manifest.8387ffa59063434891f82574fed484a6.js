@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3495bc3a702606800341cd31c8fe7d61",
+    "revision": "0e4dbcb497ba2cc47d1780f3a0db0cc4",
     "url": "/p-melody/index.html"
   },
   {
-    "revision": "6028fcdf103554c12de7",
+    "revision": "f1482026d4f2186c1b35",
     "url": "/p-melody/static/css/main.9a2e813c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/p-melody/static/js/2.effdc806.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6028fcdf103554c12de7",
-    "url": "/p-melody/static/js/main.55b18af4.chunk.js"
+    "revision": "f1482026d4f2186c1b35",
+    "url": "/p-melody/static/js/main.f20bfb24.chunk.js"
   },
   {
     "revision": "0ee3d10965e580360daf",
