@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/p-melody/static/css/main.9a2e813c.chunk.css",
-    "main.js": "/p-melody/static/js/main.f20bfb24.chunk.js",
-    "main.js.map": "/p-melody/static/js/main.f20bfb24.chunk.js.map",
+    "main.js": "/p-melody/static/js/main.27ff9c86.chunk.js",
+    "main.js.map": "/p-melody/static/js/main.27ff9c86.chunk.js.map",
     "runtime-main.js": "/p-melody/static/js/runtime-main.8c095bd0.js",
     "runtime-main.js.map": "/p-melody/static/js/runtime-main.8c095bd0.js.map",
     "static/js/2.effdc806.chunk.js": "/p-melody/static/js/2.effdc806.chunk.js",
     "static/js/2.effdc806.chunk.js.map": "/p-melody/static/js/2.effdc806.chunk.js.map",
     "index.html": "/p-melody/index.html",
-    "precache-manifest.8387ffa59063434891f82574fed484a6.js": "/p-melody/precache-manifest.8387ffa59063434891f82574fed484a6.js",
+    "precache-manifest.98421248dec29d8a3ef686d3c7429d93.js": "/p-melody/precache-manifest.98421248dec29d8a3ef686d3c7429d93.js",
     "service-worker.js": "/p-melody/service-worker.js",
     "static/css/main.9a2e813c.chunk.css.map": "/p-melody/static/css/main.9a2e813c.chunk.css.map",
     "static/js/2.effdc806.chunk.js.LICENSE.txt": "/p-melody/static/js/2.effdc806.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8c095bd0.js",
     "static/js/2.effdc806.chunk.js",
     "static/css/main.9a2e813c.chunk.css",
-    "static/js/main.f20bfb24.chunk.js"
+    "static/js/main.27ff9c86.chunk.js"
   ]
 }
